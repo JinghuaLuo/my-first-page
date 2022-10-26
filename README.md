@@ -1,4 +1,4 @@
-# my-first-page
+# Jinghua Luo
 
 Hello, this is Jinghua
 
@@ -8,4 +8,5 @@ I can do
 
 - python
 - writing
+- sporting
  
